@@ -1,0 +1,24 @@
+Project_ID,Project_Name,State,District,Client_Type,Project_Type,Budget_Allocated,Budget_Used,Revenue_Generated,Start_Date,End_Date,Status,Team_Size,Delay_Days
+PROJ_101,North Delhi OFC Rollout,Delhi,North Delhi,Government,Telecom Services,4500000,4200000,6000000,2023-11-01,2024-01-20,Completed,10,0
+PROJ_102,South Delhi 5G Deployment,Delhi,South Delhi,Private,Telecom Services,8000000,8200000,10500000,2023-11-05,2024-02-10,Delayed,15,20
+PROJ_103,East Delhi Cable Manufacturing Unit Setup,Delhi,East Delhi,Private,Manufacturing,7000000,6500000,9500000,2023-11-10,2024-02-05,Ongoing,12,10
+PROJ_104,West Delhi Smart Mobility Towers,Delhi,West Delhi,Government,Mobility Telecom,6000000,5800000,7800000,2023-11-12,2024-01-30,Completed,11,0
+PROJ_105,Central Delhi Data Center Upgrade,Delhi,Central Delhi,Private,IT Services,9000000,8800000,12000000,2023-11-15,2024-02-15,Ongoing,14,5
+PROJ_106,Dwarka Fiber Backbone,Delhi,Dwarka,Government,Telecom Services,5000000,5200000,7000000,2023-11-18,2024-02-20,Delayed,9,25
+PROJ_107,Rohini Connector Manufacturing Expansion,Delhi,Rohini,Private,Manufacturing,6500000,6000000,8500000,2023-11-20,2024-02-01,Ongoing,13,8
+PROJ_108,Saket IT Network Infrastructure,Delhi,Saket,Private,IT Services,7200000,7000000,9800000,2023-11-22,2024-02-12,Completed,12,0
+PROJ_109,Karol Bagh Telecom Upgrade,Delhi,Karol Bagh,Government,Telecom Services,4800000,4600000,6400000,2023-11-25,2024-01-25,Completed,8,0
+PROJ_110,North Delhi Connector Assembly Plant,Delhi,North Delhi,Private,Manufacturing,5500000,5300000,7500000,2023-11-28,2024-02-18,Ongoing,10,12
+PROJ_111,South Delhi Mobility Network,Delhi,South Delhi,Government,Mobility Telecom,7800000,8000000,10200000,2023-12-01,2024-02-28,Delayed,16,30
+PROJ_112,East Delhi OFC Maintenance,Delhi,East Delhi,Government,Telecom Services,4000000,3900000,5200000,2023-12-03,2024-01-15,Completed,7,0
+PROJ_113,West Delhi Data Analytics Hub,Delhi,West Delhi,Private,IT Services,8500000,8200000,11500000,2023-12-05,2024-02-25,Ongoing,14,6
+PROJ_114,Central Delhi Smart Grid Integration,Delhi,Central Delhi,Government,Mobility Telecom,9200000,9500000,13000000,2023-12-07,2024-02-28,Delayed,15,35
+PROJ_115,Dwarka Cable Production Line,Delhi,Dwarka,Private,Manufacturing,6700000,6400000,8800000,2023-12-10,2024-02-20,Ongoing,11,10
+PROJ_116,Rohini IT Infrastructure Upgrade,Delhi,Rohini,Private,IT Services,7500000,7300000,10000000,2023-12-12,2024-02-22,Completed,13,0
+PROJ_117,Saket Telecom Tower Expansion,Delhi,Saket,Government,Telecom Services,5300000,5100000,7000000,2023-12-15,2024-02-05,Completed,9,0
+PROJ_118,Karol Bagh Connector Testing Unit,Delhi,Karol Bagh,Private,Manufacturing,6000000,5800000,8000000,2023-12-18,2024-02-25,Ongoing,10,7
+PROJ_119,North Delhi Mobility Control Center,Delhi,North Delhi,Government,Mobility Telecom,8800000,9000000,12000000,2023-12-20,2024-02-28,Delayed,14,28
+PROJ_120,South Delhi IT Cloud Migration,Delhi,South Delhi,Private,IT Services,9100000,8800000,12500000,2023-12-22,2024-02-28,Ongoing,15,10
+PROJ_121,North Delhi Emergency Fiber Repair,Delhi,North Delhi,Government,Telecom Services,6200000,6100000,6200000,2024-01-05,2024-03-20,Ongoing,9,6
+PROJ_122,Central Delhi Secure Cloud Migration,Delhi,Central Delhi,Private,IT Services,9800000,10100000,9500000,2024-01-08,2024-03-28,Delayed,14,18
+PROJ_123,Dwarka Tower Resilience Upgrade,Delhi,Dwarka,Government,Mobility Telecom,7600000,7500000,7700000,2024-01-10,2024-03-25,Ongoing,11,9
